@@ -1,0 +1,22 @@
+apache/airflow slim latest
+https://hub.docker.com/r/apache/airflow/tags
+
+Apache Airflow with 3 Celery workers in docker-compose
+https://xnuinside.medium.com/quick-tutorial-apache-airflow-with-3-celery-workers-in-docker-composer-9f2f3b445e4
+
+Setting Up Docker for Windows and WSL to Work Flawlessly
+https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly#ensure-volume-mounts-work
+
+
+Build command
+https://github.com/bithealth-id/airflow-docker/blob/main/build.sh
+
+Docker File
+https://github.com/bithealth-id/airflow-docker/blob/main/docker/airflow_spark/Dockerfile
+
+Docker Compose
+https://github.com/bithealth-id/airflow-docker/blob/main/docker-compose.yml
+
+
+
+
