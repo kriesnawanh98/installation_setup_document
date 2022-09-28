@@ -1,6 +1,7 @@
 # How to change a GitHub user to another user in Windows
 
 ## 1. Test cloning a repository
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_1.png" width="975">
 ![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_1.png | width=975)
 
 
