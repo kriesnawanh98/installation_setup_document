@@ -2,31 +2,30 @@
 
 ## 1. Test cloning a repository
 <img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_1.png" width="975">
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_1.png | width=975)
 
 
 ## 2. Check the status
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_2.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_2.png" width="975">
 
 
 ## 3. Git add, commit and push
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_3.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_3.png" width="975">
 In this step, we will not get the permission because we still using the handy-bithealth Git user and we need to change the user
 
 
 ## 4. Open Control Panel -> User Accounts -> Credential Manager
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_4.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_4.png" width="975">
 In this window, we must remove the 'Generic Credentials' of 'githttps://github.com'
 
 
 ## 5. Try to push the repository again
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_5.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_5.png" width="975">
 the window for signing in will be appeared and we must sign in with another or new User Name
 
 ## 6. Authentication Succeeded or Sign In Succeeded
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_6.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_6.png" width="975">
 
 ## 7. Re-push the repository
-![](https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_7.png | width=975)
+<img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_7.png" width="975">
 
 ## 8. Finish
