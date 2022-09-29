@@ -9,7 +9,7 @@ Overall, Installing Apache Spark is separated in 4 different stages as follows:
 3. Adding a winutils file
 4. Setup an environment variable
 
-1. **Installing and verifying a Java Installation**
+## 1. **Installing and verifying a Java Installation**
 
 The java version which suitable with the spark framework is only JAVA SE 8 8u202, so make sure that the installed java has an appropriate version.
 
@@ -25,7 +25,7 @@ The installed java should be stored probably in “**C:\Program Files\Java**”
 
 ![Untitled](Spark%20Installation/Untitled%201.png)
 
-1. **Installing Spark**
+## 2. **Installing Spark**
 
 In this tutorial, The spark version used is 2.4.8 with hadoop 2.7 
 
@@ -41,7 +41,7 @@ for instance, **C:\spark-2.4.8-bin-hadoop2.7\**
 
 ![Untitled](Spark%20Installation/Untitled%203.png)
 
-1. **Adding a winutils/hadoop file**
+## 3. **Adding a winutils/hadoop file**
 
 Considering winutils version, Download a specific winutils file which suitable with version of Hadoop. 
 
@@ -55,11 +55,11 @@ Download and extract the folder of winutils
 
 path: **C:\hadoop-2.7.1**
 
-1. **Setup an environment variable**
+## 4. **Setup an environment variable**
 
 At the end, Each path of saved folder have to be stored in the System Properties - Environment Variable in a local computer. The stored variable is separated into 2 section such as “User Variable for user” and “System Variables”
 
-4.1 User Variable for User
+### 4.1 User Variable for User
 
 1. adding HADOOP_HOME, JAVA_HOME and SPARK_HOME variable
     
@@ -71,7 +71,7 @@ At the end, Each path of saved folder have to be stored in the System Properties
     ![Untitled (1).png](Spark%20Installation/Untitled_(1).png)
     
 
-4.2 System Variables
+### 4.2 System Variables
 
 1. adding HADOOP_HOME and JAVA_HOME variable
     
