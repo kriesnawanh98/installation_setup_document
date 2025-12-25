@@ -28,4 +28,5 @@ the window for signing in will be appeared and we must sign in with another or n
 ## 7. Re-push the repository
 <img src="https://github.com/kriesnawanh98/installation_setup_document/blob/main/github/image_7.png" width="975">
 
-## 8. Finish
+## 8. Finish the game
+
